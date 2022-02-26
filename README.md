@@ -1,2 +1,2 @@
-# dashboar_monitoring
+# dashboard_monitoring
 Dashboard for monitoring project, use jatstream livewire and api for mobile app
